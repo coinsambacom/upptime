@@ -8,17 +8,14 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟨 Partial outage**
+## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Google](https://www.google.com) | 🟩 Up | [google.yml](https://github.com/koj-co/upptime/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 85ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
-| [Wikipedia](https://en.wikipedia.org) | 🟩 Up | [wikipedia.yml](https://github.com/koj-co/upptime/commits/master/history/wikipedia.yml) | <img alt="Response time graph" src="./graphs/wikipedia.png" height="20"> 180ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fwikipedia%2Fuptime.json)
-| [Internet Archive](https://archive.org) | 🟩 Up | [internet-archive.yml](https://github.com/koj-co/upptime/commits/master/history/internet-archive.yml) | <img alt="Response time graph" src="./graphs/internet-archive.png" height="20"> 460ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Finternet-archive%2Fuptime.json)
-| [Hacker News](https://news.ycombinator.com) | 🟩 Up | [hacker-news.yml](https://github.com/koj-co/upptime/commits/master/history/hacker-news.yml) | <img alt="Response time graph" src="./graphs/hacker-news.png" height="20"> 318ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fhacker-news%2Fuptime.json)
-| [Broken Site](https://thissitedoesnotexist.com) | 🟥 Down | [broken-site.yml](https://github.com/koj-co/upptime/commits/master/history/broken-site.yml) | <img alt="Response time graph" src="./graphs/broken-site.png" height="20"> 0ms | ![Uptime 0.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fbroken-site%2Fuptime.json)
-| Secret Site | 🟩 Up | [secret-site.yml](https://github.com/koj-co/upptime/commits/master/history/secret-site.yml) | <img alt="Response time graph" src="./graphs/secret-site.png" height="20"> 51ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fsecret-site%2Fuptime.json)
+| [Coinsamba](https://coinsamba.com) | 🟩 Up | [coinsamba.yml](https://github.com/coinsambacom/upptime/commits/master/history/coinsamba.yml) | <img alt="Response time graph" src="./graphs/coinsamba.png" height="20"> 1776ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoinsambacom%2Fupptime%2Fmaster%2Fapi%2Fcoinsamba%2Fuptime.json)
+| [Coinsamba P2P](https://p2p.coinsamba.com) | 🟩 Up | [coinsamba-p2-p.yml](https://github.com/coinsambacom/upptime/commits/master/history/coinsamba-p2-p.yml) | <img alt="Response time graph" src="./graphs/coinsamba-p2-p.png" height="20"> 737ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoinsambacom%2Fupptime%2Fmaster%2Fapi%2Fcoinsamba-p2-p%2Fuptime.json)
+| [Coinsamba API](https://api.coinsamba.com) | 🟩 Up | [coinsamba-api.yml](https://github.com/coinsambacom/upptime/commits/master/history/coinsamba-api.yml) | <img alt="Response time graph" src="./graphs/coinsamba-api.png" height="20"> 375ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoinsambacom%2Fupptime%2Fmaster%2Fapi%2Fcoinsamba-api%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
