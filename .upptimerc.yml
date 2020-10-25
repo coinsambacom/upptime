@@ -8,6 +8,8 @@ sites:
     url: https://p2p.coinsamba.com
   - name: Coinsamba API
     url: https://api.coinsamba.com
+assignees:
+  - itxtoledo
 status-website:
   cname: status.coinsamba.com
   logoUrl: https://f6s-public.s3.amazonaws.com/profiles/2627844_original.jpg
