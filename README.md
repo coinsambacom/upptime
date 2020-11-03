@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.coinsamba.com): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://status.coinsamba.com): <!--live status--> **🟩 All systems operational**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -9,13 +9,11 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
 <!--start: status pages-->
-
-| URL                                        | Status  | History                                                                                                 | Response Time                                                                       | Uptime                                                                                                                                                                |
-| ------------------------------------------ | ------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Coinsamba](https://coinsamba.com)         | 🟥 Down | [coinsamba.yml](https://github.com/coinsambacom/upptime/commits/master/history/coinsamba.yml)           | <img alt="Response time graph" src="./graphs/coinsamba.png" height="20"> 1345ms     | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoinsambacom%2Fupptime%2Fmaster%2Fapi%2Fcoinsamba%2Fuptime.json)      |
-| [Coinsamba P2P](https://p2p.coinsamba.com) | 🟥 Down | [coinsamba-p2-p.yml](https://github.com/coinsambacom/upptime/commits/master/history/coinsamba-p2-p.yml) | <img alt="Response time graph" src="./graphs/coinsamba-p2-p.png" height="20"> 278ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoinsambacom%2Fupptime%2Fmaster%2Fapi%2Fcoinsamba-p2-p%2Fuptime.json) |
-| [Coinsamba API](https://api.coinsamba.com) | 🟥 Down | [coinsamba-api.yml](https://github.com/coinsambacom/upptime/commits/master/history/coinsamba-api.yml)   | <img alt="Response time graph" src="./graphs/coinsamba-api.png" height="20"> 399ms  | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoinsambacom%2Fupptime%2Fmaster%2Fapi%2Fcoinsamba-api%2Fuptime.json)  |
-
+| URL | Status | History | Response Time | Uptime |
+| --- | ------ | ------- | ------------- | ------ |
+| [Coinsamba](https://coinsamba.com) | 🟩 Up | [coinsamba.yml](https://github.com/coinsambacom/upptime/commits/master/history/coinsamba.yml) | <img alt="Response time graph" src="./graphs/coinsamba.png" height="20"> 1367ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoinsambacom%2Fupptime%2Fmaster%2Fapi%2Fcoinsamba%2Fuptime.json)
+| [Coinsamba P2P](https://p2p.coinsamba.com) | 🟩 Up | [coinsamba-p2-p.yml](https://github.com/coinsambacom/upptime/commits/master/history/coinsamba-p2-p.yml) | <img alt="Response time graph" src="./graphs/coinsamba-p2-p.png" height="20"> 268ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoinsambacom%2Fupptime%2Fmaster%2Fapi%2Fcoinsamba-p2-p%2Fuptime.json)
+| [Coinsamba API](https://api.coinsamba.com) | 🟩 Up | [coinsamba-api.yml](https://github.com/coinsambacom/upptime/commits/master/history/coinsamba-api.yml) | <img alt="Response time graph" src="./graphs/coinsamba-api.png" height="20"> 441ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoinsambacom%2Fupptime%2Fmaster%2Fapi%2Fcoinsamba-api%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
