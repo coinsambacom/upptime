@@ -3,24 +3,24 @@
     "name": "Coinsamba",
     "url": "https://coinsamba.com",
     "slug": "coinsamba",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1345
+    "time": 1367
   },
   {
     "name": "Coinsamba P2P",
     "url": "https://p2p.coinsamba.com",
     "slug": "coinsamba-p2-p",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 278
+    "time": 268
   },
   {
     "name": "Coinsamba API",
     "url": "https://api.coinsamba.com",
     "slug": "coinsamba-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 399
+    "time": 441
   }
 ]
