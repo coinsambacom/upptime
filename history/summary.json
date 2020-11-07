@@ -5,7 +5,7 @@
     "slug": "coinsamba",
     "status": "up",
     "uptime": "100.00",
-    "time": 1246
+    "time": 1230
   },
   {
     "name": "Coinsamba P2P",
@@ -13,7 +13,7 @@
     "slug": "coinsamba-p2-p",
     "status": "up",
     "uptime": "100.00",
-    "time": 246
+    "time": 245
   },
   {
     "name": "Coinsamba API",
