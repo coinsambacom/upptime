@@ -1,7 +1,7 @@
 - url: https://api.coinsamba.com
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-15T22:37:05.026Z
+- status: up
+- code: 200
+- responseTime: 156
+- lastUpdated: 2020-11-15T22:47:52.675Z
 - startTime: 2020-10-25T16:12:04.885Z
 - generator: Upptime <https://github.com/upptime/upptime>
