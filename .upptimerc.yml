@@ -11,7 +11,7 @@ sites:
 assignees:
   - itxtoledo
 status-website:
-  baseUrl: /upptime
+  name: status.coinsamba.com
   logoUrl: https://f6s-public.s3.amazonaws.com/profiles/2627844_original.jpg
   name: Coinsamba Status
   introTitle: "Coinsamba"
