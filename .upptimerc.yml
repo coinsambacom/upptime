@@ -7,7 +7,7 @@ sites:
   - name: Coinsamba P2P
     url: https://p2p.coinsamba.com
   - name: Coinsamba API
-    url: https://api.coinsamba.com
+    url: https://api.coinsamba.com/health
 assignees:
   - itxtoledo
 status-website:
