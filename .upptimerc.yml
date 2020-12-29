@@ -14,5 +14,5 @@ status-website:
   name: status.coinsamba.com
   logoUrl: https://f6s-public.s3.amazonaws.com/profiles/2627844_original.jpg
   name: Coinsamba Status
-  introTitle: "Coinsamba"
+  introTitle: Coinsamba
   introMessage: We work hard to make sure Coinsamba is always online and ready to help you! If you are experiencing issues, please reference the chart below.
