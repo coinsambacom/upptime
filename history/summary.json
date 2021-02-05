@@ -26,9 +26,9 @@
     "url": "https://p2p.coinsamba.com",
     "icon": "https://favicons.githubusercontent.com/p2p.coinsamba.com",
     "slug": "coinsamba-p2-p",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -38,6 +38,7 @@
     "timeMonth": 236,
     "timeYear": 198,
     "dailyMinutesDown": {
+      "2021-02-05": 0,
       "2020-11-12": 5,
       "2020-11-07": 5
     }
