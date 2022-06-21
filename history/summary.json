@@ -47,7 +47,7 @@
     "url": "https://api.coinsamba.com/health",
     "icon": "https://favicons.githubusercontent.com/api.coinsamba.com",
     "slug": "coinsamba-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
     "uptimeDay": "98.42%",
     "uptimeWeek": "99.54%",
