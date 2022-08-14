@@ -4,10 +4,10 @@
     "url": "https://coinsamba.com",
     "icon": "https://favicons.githubusercontent.com/coinsamba.com",
     "slug": "coinsamba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 523,
@@ -16,6 +16,7 @@
     "timeMonth": 631,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2022-08-14": 1,
       "2021-10-17": 36,
       "2021-09-10": 17
     }
@@ -25,10 +26,10 @@
     "url": "https://p2p.coinsamba.com",
     "icon": "https://favicons.githubusercontent.com/p2p.coinsamba.com",
     "slug": "coinsamba-p2-p",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
@@ -37,6 +38,7 @@
     "timeMonth": 185,
     "timeYear": 159,
     "dailyMinutesDown": {
+      "2022-08-14": 1,
       "2021-12-29": 15
     }
   },
@@ -45,9 +47,9 @@
     "url": "https://api.coinsamba.com/health",
     "icon": "https://favicons.githubusercontent.com/api.coinsamba.com",
     "slug": "coinsamba-api",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.91%",
@@ -57,6 +59,7 @@
     "timeMonth": 487,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2022-08-14": 0,
       "2022-08-05": 38,
       "2022-07-16": 26,
       "2022-06-30": 69,
