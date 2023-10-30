@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 3308,
-    "timeWeek": 1113,
-    "timeMonth": 580,
-    "timeYear": 368,
+    "time": 383,
+    "timeDay": 530,
+    "timeWeek": 1162,
+    "timeMonth": 591,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   },
   {
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 154,
-    "timeDay": 400,
-    "timeWeek": 169,
-    "timeMonth": 117,
-    "timeYear": 141,
-    "dailyMinutesDown": {
-      "2022-10-30": 32
-    }
+    "timeDay": 172,
+    "timeWeek": 175,
+    "timeMonth": 119,
+    "timeYear": 142,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Coinsamba API",
@@ -44,17 +42,16 @@
     "slug": "coinsamba-api",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
-    "time": 487,
-    "timeDay": 3807,
-    "timeWeek": 1568,
-    "timeMonth": 748,
-    "timeYear": 488,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
+    "time": 486,
+    "timeDay": 3769,
+    "timeWeek": 1566,
+    "timeMonth": 742,
+    "timeYear": 487,
     "dailyMinutesDown": {
-      "2023-10-29": 10,
       "2023-03-05": 179
     }
   }
