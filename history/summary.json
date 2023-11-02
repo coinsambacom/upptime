@@ -15,7 +15,9 @@
     "timeWeek": 835,
     "timeMonth": 600,
     "timeYear": 368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 0
+    }
   },
   {
     "name": "Coinsamba P2P",
