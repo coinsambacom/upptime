@@ -6,17 +6,17 @@
     "slug": "coinsamba",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 394,
-    "timeWeek": 835,
-    "timeMonth": 600,
-    "timeYear": 368,
+    "timeDay": 283,
+    "timeWeek": 752,
+    "timeMonth": 587,
+    "timeYear": 367,
     "dailyMinutesDown": {
-      "2023-11-02": 0
+      "2023-11-02": 10
     }
   },
   {
