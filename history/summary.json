@@ -4,19 +4,19 @@
     "url": "https://coinsamba.com",
     "icon": "https://icons.duckduckgo.com/ip3/coinsamba.com.ico",
     "slug": "coinsamba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 348,
-    "timeDay": 707,
-    "timeWeek": 326,
+    "timeDay": 550,
+    "timeWeek": 316,
     "timeMonth": 240,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://p2p.coinsamba.com",
     "icon": "https://icons.duckduckgo.com/ip3/p2p.coinsamba.com.ico",
     "slug": "coinsamba-p2-p",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 627,
+    "timeDay": 486,
     "timeWeek": 206,
-    "timeMonth": 147,
+    "timeMonth": 148,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 11
     }
   },
   {
