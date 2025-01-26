@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 466,
-    "timeDay": 266,
-    "timeWeek": 240,
+    "timeDay": 267,
+    "timeWeek": 264,
     "timeMonth": 293,
     "timeYear": 502,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 90,
-    "timeWeek": 115,
-    "timeMonth": 131,
+    "timeDay": 172,
+    "timeWeek": 119,
+    "timeMonth": 133,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2024-06-26": 16
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.coinsamba.com.ico",
     "slug": "coinsamba-api",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 496,
-    "timeDay": 373,
-    "timeWeek": 420,
-    "timeMonth": 430,
-    "timeYear": 467,
+    "timeDay": 365,
+    "timeWeek": 390,
+    "timeMonth": 429,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2025-01-09": 59,
       "2025-01-08": 7,
@@ -66,8 +66,7 @@
       "2024-03-20": 22,
       "2024-02-19": 47,
       "2024-02-11": 15,
-      "2024-02-07": 22,
-      "2024-01-27": 20
+      "2024-02-07": 22
     }
   }
 ]
