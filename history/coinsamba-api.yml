@@ -1,7 +1,7 @@
 url: https://api.coinsamba.com/health
-status: down
-code: 502
-responseTime: 129
-lastUpdated: 2025-06-09T20:25:21.295Z
+status: up
+code: 200
+responseTime: 186
+lastUpdated: 2025-06-09T20:42:35.984Z
 startTime: 2020-10-25T16:12:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
